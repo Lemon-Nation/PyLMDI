@@ -1,4 +1,4 @@
-<img src="F:\A-研究生\A文章待工作\20210906LMDI-handbook\PyLMDI\fig.png" alt="fig" style="zoom: 25%;" />
+<img src="PyLMDI_logo.png" alt="fig" style="zoom: 25%;" />
 
 # PyLMDI: An open source toolbox for LMDI decomposition analysis in Python
 
