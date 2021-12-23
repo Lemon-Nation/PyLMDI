@@ -1,4 +1,4 @@
-<img src="PyLMDI_logo.png" alt="fig" style="zoom: 25%;" />
+<img src="F:\A-研究生\A文章待工作\20210906LMDI-handbook\PyLMDI\fig.png" alt="fig" style="zoom: 25%;" />
 
 # PyLMDI: An open source toolbox for LMDI decomposition analysis in Python
 
@@ -12,7 +12,7 @@ The PyLMDI toolbox
 
 ## Features
 
-
+![PyLMDI_FrameWork](F:\A-研究生\A文章待工作\20210906LMDI-handbook\PyLMDI_发布\PyLMDI_FrameWork.png)
 
 
 
@@ -27,7 +27,7 @@ The PyLMDI toolbox
 Clone the Git repository from GitHub
 
 ```
-git clone https://github.com/7ossam81/EvoloPy.git
+https://github.com/xiwang2718/PyLMDI
 ```
 
 
